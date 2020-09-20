@@ -32,8 +32,6 @@ public class Constants {
 
 	public static final String LOGIN_USER_NAME = "tomsmith";
 	public static final String LOGIN_PASSWORD = "SuperSecretPassword!";
-	public static final String LOGIN_INVALID_USER_NAME = "kasawan";
-	public static final String LOGIN_INVALID_PASSWORD = "kavsaone12de";
 	public static final String LOGOUT_SUCCESS_MSG = "You logged out of the secure area!";
 	public static final String LOGIN_SUCCESS_MSG = "You logged into a secure area!";
 	public static final String LOGIN_INVALID_MSG = "Your username is invalid!";
